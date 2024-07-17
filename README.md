@@ -1,2 +1,0 @@
-# C.Manohar
-python programs
